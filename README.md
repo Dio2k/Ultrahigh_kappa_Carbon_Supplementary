@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction
 
 **Ultrahigh_kappa_Carbon_Supplementary** is the repository for article "Generative Deep Learning for Discovering Ultrahigh Lattice Thermal Conductivity Materials" (npj Comput. Mater. 11, 1–10 (2025); doi: [https://doi.org/10.1038/s41524-025-01592-8](https://doi.org/10.1038/s41524-025-01592-8)). It included all **POSCAR** files of 34 carbon allotropes with ultrahigh lattice thermal conductivity (> 800 W/mK on one direction).
@@ -39,3 +40,8 @@
 | 89688 |  931.12   | [**931, 665, 744**,    105, -40, 118  ] | -|
 |C-130507-2037-23<br>(i.e. C~10~-hccch-C13)|1776.98|[**1777, 1777, 1375**, 0, 0, 0]|-|
 |C-9612-1722-33|879.57|[**880, 874, 862**, -71, 57, 12      ] | [SACADA-142](https://www.sacada.info/ca_data.php?id=142)|
+=======
+## Introduction
+
+Supplementary materials for article "Generative Deep Learning for Predicting Ultrahigh Lattice Thermal Conductivity Materials" (npj Comput. Mater. 11, 97 (2025). [https://doi.org/10.1038/s41524-025-01592-8](https://doi.org/10.1038/s41524-025-01592-8))
+>>>>>>> 5d44fc024da5cddd37faf198b1d87db23a8bcf8e
